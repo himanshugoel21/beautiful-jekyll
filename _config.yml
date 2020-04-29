@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.anudit.in/"
+url: "himanshugoel.in"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -12,7 +12,7 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Name of website
-title: Anudit Verma
+title: Himanshu Goel
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -20,7 +20,7 @@ title: Anudit Verma
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: Let me introduce you to my geek side!
+description: Here is my little introduction!
 
 # --- Navigation bar options --- #
 
@@ -39,7 +39,7 @@ navbar-links:
     - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
     - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
   About Me: "aboutme"
-  Resume | CV: "resume/Anudit_Verma.pdf"
+#  Resume | CV: "resume/Anudit_Verma.pdf"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -67,7 +67,7 @@ avatar: "/img/av.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anudit Verma
+  name: Himanshu Goel
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -76,15 +76,15 @@ author:
 social-network-links:
 # rss: false
 # email: "someone@example.com"
-  facebook: anuditverma
-  github: anuditverma
-  twitter: anuditverma
+#  facebook: anuditverma
+  github: himanshugoel21
+  twitter: himanshugoel21
 # reddit: yourname
-  linkedin: anuditverma
+#  linkedin: anuditverma
 # xing: yourname
 # stackoverflow: 4590331/anudit-verma
 # snapchat: yourname
-  instagram: anuditverma
+#  instagram: anuditverma
 # youtube: user/yourname
 # spotify: yourname
 # telephone: +1-(000)-000-0000
@@ -101,15 +101,15 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.anudit.in"
+url-pretty: "himanshugoel.in"
 
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+# disqus: "anuditverma"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+# google_analytics: "UA-84991519-1"
 
 # Google Tag Manager ID
 #gtm: ""

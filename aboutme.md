@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Anudit Verma
+title: About Himanshu Goel
 meta-title: About me
 subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
 ---
