@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Anudit Verma - My Book Recommendations
+title: Himanshu - My Book Recommendations
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
