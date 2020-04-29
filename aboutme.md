@@ -9,7 +9,7 @@ subtitle: "For a start, my favorite quote is, <br> Do what you love, love what y
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Himanshu Goel</strong>. I am an information security enthusiast and currently helping healthcare and financial entities in meeting their security objectives.
+  Hi again, my name is <strong>Himanshu Goel :sunglasses: </strong>. I am an information security enthusiast and currently helping healthcare and financial entities in meeting their security objectives.
 </p>
 
 <p class="about-text">
