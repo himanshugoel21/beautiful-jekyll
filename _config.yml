@@ -28,8 +28,8 @@ description: Welcome!
 navbar-links:
   Blog: ""
   Books: "books"
-  Tags: "himanshugoel.in/tags/"
-  
+  Tags: "tags"
+
 #  Publications:
 #    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
 #    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
