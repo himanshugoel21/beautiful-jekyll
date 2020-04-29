@@ -9,7 +9,7 @@ subtitle: "For a start, my favorite quote is, <br> Do what you love, love what y
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor and developer living in Long Beach, California, US.
+  Hi again, my name is <strong>Himanshu Goel</strong>. I am an information security enthusiast and currently helping healthcare and financial entities in meeting their security objectives.
 </p>
 
 <p class="about-text">
@@ -42,10 +42,3 @@ Let’s connect if you want to collab something awesome in the world of open-sou
 	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
-<br>
-
-Oh, and one more thing, if you are wondering about the meaning of my name, well...
-<br><br>
-<center><img src="/img/anudit-meaning.png"></center>
-<br>
-<center><h3>Yes! It literally means translated, interesting, right? </h3><center>
