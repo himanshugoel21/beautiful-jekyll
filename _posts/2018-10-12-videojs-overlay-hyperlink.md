@@ -1,110 +1,26 @@
 ---
 layout: post
-title: videojs-overlay-hyperlink
-tags: [videojs, videojs-plugin, video]
+title: Simple trick to go back to “The One Thing”
+tags: [Productivity, procrastination]
 ---
 
+Sometimes we are so doubtful in life that we think that only complex solutions can solve our problems.<br>
 
-A simple video.js plugin to display hyperlinks during video playback using overlays. This plugin is built upon popular video.js plugin called videojs-overlay.<br>
+We fail to acknowledge the easy solutions which are around us.
 
-## Static Preview
+I was reading by favorite bloggers post (Leo Babuata – Zen habits) and saw a simple method to go back to your “One Thing”. It is so simple and easy to follow. This simple trick combines of 3 simple methods.
 
-<center><img src="/img/videojs-hyperlink-screenshot.jpg"></center>
+By this time I am sure you are aware what’s “The One Thing”. The One Thing is that one critical item on your list that you would want to focus on to complete your most important goal. Since that goal is most important to you and you want it to be perfect, hence you start procrastinating over it thinking about the consequences rather than the process.
 
-### Live Demo: [Link](https://rawgit.com/anuditverma/videojs-overlay-hyperlink/master/index.html)
-
-## Download
-Click [here](https://github.com/anuditverma/videojs-overlay-hyperlink/releases) to download __videojs-overlay-hyperlink__ or `git clone` it into your production directory.
-
-```ssh
-git clone https://github.com/anuditverma/videojs-overlay-hyperlink.git
-```
-
-## Getting Started
-
-First of all, import the plugin's javascript and css files into your webpage.
-```html
-<!-- js -->
-<script src="path/to/js/video.js"></script>
-<script src="path/to/js/videojs-overlay-hyperlink.js"></script>
-
-<!-- css -->
-<link href="path/to/css/video-js.css" rel="stylesheet">
-<link href="path/to/videojs-overlay-hyperlink.css" rel="stylesheet">
-```
-
-After importing, your HTML document should look something like [this](https://github.com/anuditverma/videojs-overlay-hyperlink/blob/master/index.html).
-
-## Define Hyperlink
-
-Add another javascript to define your target hyperlink, just assign `yourLink` variable with your preferred value. 
-
-```js
-<script type='text/javascript'>
-  var yourLink = "https://www.google.com/search?q=documentaries+on+oceans";
-</script>
-```
-## Configure Setup
-
-The main section of your setup, where you can configure the positioning and duration of the hyperlink.
-
-```js
-<script>
-    (function(window, videojs) {
-        var player = window.player = videojs('videojs-overlay-player');
-        player.overlay({
-            content: '<a href=# onclick="location.href=yourLink;return false;">Checkout More Documentaries on Oceans</a>',
-            debug: true,
-            overlays: [{
-                start: 0,
-                end: 15,
-                align: 'bottom-left'
-            }, {
-                start: 15,
-                end: 30,
-                align: 'bottom'
-            }, {
-                start: 30,
-                end: 45,
-                align: 'bottom-right'
-            }]
-        });
-    }(window, window.videojs));
-</script>
-```
-### Meaning of the plugin options:
-
-#### `content`
-
-__Type:__ `String`, `Element`, `DocumentFragment`
-__Default:__ `"This overlay will show up while the video is playing"`
-
-_This setting can be overridden by being set on individual overlay objects._
-
-The default HTML that the overlay includes.
-
-#### `overlays`
-
-__Type:__ `Array`
-__Default:__ an array with a single example overlay
-
-An array of overlay objects. Here you can define your hyperlink name, and this overlay object should consist of:
-
-- `start` (`String` or `Number`): When to show the overlay. If its value is a string, it is understood as the name of an event. If it is a number (in seconds), the overlay will be shown when that moment in the playback timeline is passed.
-- `end` (`String` or `Number`): When to hide the overlay. The values of this property have the same semantics as `start`.
-
-#### `align`
-
-__Type:__ `String`
-__Default:__ `"top-left"`
-
-_This setting can be overridden by being set on individual overlay objects._
-
-Where to display overlays, by default. Assuming the included stylesheet is used, the following values are supported: `"top-left"`, `"top"`, `"top-right"`, `"right"`, `"bottom-right"`, `"bottom"`, `"bottom-left"`, `"left"`.
+For example: Your “One Thing” can be to loose weight. It can be to write an article. Or it can be to study for a certification. Or it can be to prepare a financial plan for yourself.
 
 
-## See also:
-- Highly customizable video player framework, [video.js](http://videojs.com/).
-- Similar video.js [plugins and skins](http://videojs.com/plugins/).
+## Following are the 3 methods you can follow to get out of this procrastination loop:
 
-Thank you for reading.
+- Create a space: Give yourself a distraction free 15-25 minutes by putting all your stuff (mobile, messages, social media, etc.) aside. Just take out 15-25 minutes and ignore all other stuff just for this much little time and start work on your “One Thing”. Remind yourself again and again that it is just for this time period of 15-25 minutes that you are working on. A pomodoro timer can assist you on this.
+- Meditate: For a minute or so before you sit to start your one thing. Take few deep breaths, lighten the body, drop your shoulders, smile and relax. Nothing is bothering you. Nothing will happen in those 15-25 minutes. Keep your mind and hear open and start your work with that beautiful smile.
+- Do the smallest next step: Now you are ready and you created the space, what comes next? Your actual work. Work might be bigger or smaller, but for now you can start the smallest possible section of the work to get the ball rolling. Even a smallest action will give you power and confidence to carry on. Combining multiple small actions done by single tasking will ensure that your big task – your one thing is on the way to the completion.
+
+That’s it. Repeat these steps in the same way by starting afresh and you will see that your “One Thing” is close to completion, or at-least you are on the path of taking actions irrespective of the results.
+
+Thank you for reading :smile:
