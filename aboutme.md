@@ -34,11 +34,11 @@ Also, I am very fond of video games, I love to create digital art and play aroun
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab something awesome in the world of open-source tech. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
+Let’s connect. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:hgoel2112@gmail.com">here</a>.
 </p>
 
 
 <center>
-	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
+	<a href="https://twitter.com/himanshugoel21" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @himanshugoel</a>
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
