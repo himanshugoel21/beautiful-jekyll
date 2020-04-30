@@ -27,8 +27,14 @@ description: Welcome!
 # List of links in the navigation bar
 navbar-links:
   Blog: ""
-  Books: "books"
+  Favorite Books: "books"
   Tags: "tags"
+  Book Summary: ""
+  Productivity: ""
+  Meditation: ""
+    - Favorite Apps:
+    - Meditation Blog: 
+
 
 #  Publications:
 #    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
