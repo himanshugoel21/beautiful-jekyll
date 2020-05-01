@@ -26,9 +26,9 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
-Books:
-  - Top Books: "books"
-  - Book Notes: ""
+  Books:
+    - Top Books: "https://himanshugoel.in/books/"
+    - Book Notes: "https://himanshugoel.in/books/"
 
 #  Blog: ""
 #  Top Books: "books"
