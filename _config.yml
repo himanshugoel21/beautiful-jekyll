@@ -37,10 +37,10 @@ navbar-links:
     - Certifications: "https://himanshugoel.in/books/"
     - Compliances: "https://himanshugoel.in/books/"
     - Infosec Blog: "https://himanshugoel.in/books/"
-Meditation:
-  - Top Meditation Apps: "https://himanshugoel.in/books/"
-  - Meditation Log: "https://himanshugoel.in/books/"
-  - Meditation Notes: "https://himanshugoel.in/books/"
+  Meditation:
+    - Top Meditation Apps: "https://himanshugoel.in/books/"
+    - Meditation Log: "https://himanshugoel.in/books/"
+    - Meditation Notes: "https://himanshugoel.in/books/"
   Fitness:
     - Top Fitness Apps: "https://himanshugoel.in/books/"
     - Fitness Log: "https://himanshugoel.in/books/"
