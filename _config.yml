@@ -26,10 +26,14 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
+Books:
+  - Top Books: "books"
+  - Book Notes: ""
+
 #  Blog: ""
-  Top Books: "books"
+#  Top Books: "books"
   Tags: "tags"
-  Book Notes: ""
+#  Book Notes: ""
   Productivity: ""
   Meditation: ""
 #  - Favorite Apps: ""
