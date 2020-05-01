@@ -26,16 +26,30 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
+  Tags: "tags"
   Books:
     - Top Books: "https://himanshugoel.in/books/"
     - Book Notes: "https://himanshugoel.in/books/"
+  Productivity:
+    - Top Productivity Apps: "https://himanshugoel.in/books/"
+    - Productivity Articles: "https://himanshugoel.in/books/"
+  Meditation:
+    - Top Meditation Apps: "https://himanshugoel.in/books/"
+    - Meditation Log: "https://himanshugoel.in/books/"
+    - Meditation Notes: "https://himanshugoel.in/books/"
+  Infosec:
+    - Certifications: "https://himanshugoel.in/books/"
+    - Compliances: "https://himanshugoel.in/books/"
+    - Infosec Blog: "https://himanshugoel.in/books/"
+  Health:
+    - Top Health Apps: "https://himanshugoel.in/books/"
+    - Fitness Log: "https://himanshugoel.in/books/"
+    - Fitness Notes: "https://himanshugoel.in/books/"
 
 #  Blog: ""
 #  Top Books: "books"
-  Tags: "tags"
 #  Book Notes: ""
-  Productivity: ""
-  Meditation: ""
+
 #  - Favorite Apps: ""
 #  - Meditation Blog: ""
 
