@@ -3,6 +3,7 @@ layout: post
 title: Simple trick to go back to “The One Thing”
 tags: [Productivity, procrastination]
 ---
+# Simple trick to go back to “The One Thing”
 
 Sometimes we are so doubtful in life that we think that only complex solutions can solve our problems.<br>
 
