@@ -16,7 +16,7 @@ title: Himanshu - My Book Recommendations
 					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
 					<h3 class="product__title">The Alchemist</h3>
 					<span class="product__author highlight">Paulo Coelho</span>
-					<button class="action action--button" onclick="window.open('https://himanshugoel.in/books/')"><i class="fa fa-comments"></i><span class="action__text">Book Notes</span></button>
+					<button class="action action--button" onclick="https://himanshugoel.in/books/"><i class="fa fa-comments"></i><span class="action__text">Book Notes</span></button>
 				</div>
 			</div>
 			<div class="product">
