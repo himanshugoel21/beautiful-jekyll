@@ -1,22 +1,41 @@
 ---
 layout: post
-title: How to enable VoLTE on Vodafone?
-tags: [VoLTE]
+title: The Compound Effect Summary
+tags: [book summary, book notes]
 image: https://www.anudit.in/img/vodafone_volte/vodafone_lte.jpg
 share-img: https://www.anudit.in/img/vodafone_volte/vodafone_lte.jpg
 ---
+# The Compound Effect Summary
 
-If you are having a *VoLTE* capable phone and yet you are not able to get *VoLTE* services on it. Just follow this simple concise guide to activate *VoLTE* on your device.<br>
+*Darren Hardy’s compound effect* is one of the most important book that I read again and again to remind myself of the tools and techniques Darren teaches. The techniques are so simple yet so effective.<br>
 
-In February of 2018, *Vodafone* launched *VoLTE* services in metropolitans and select cities in India, the enhanced service is available for free of cost but you just need to have a *VoLTE* capable device. If you have either *Prepaid* or *Postpaid* connections, this guide would work for both the type of connection. Follow these simple step for activation (please note, these steps are for *Android* users only, sorry *Apple* fans)
+As Darren Says:
 
-<h3>What You Will Get?</h3>
-Notice the *VoLTE* icon on the status bar next to the 4G signal strength.
+> You don’t make $ 200,000 a year spending two hours a day on the Internet, or lose 30 pounds in a week.
 
-<center><img src="/img/vodafone_volte/vodafone_screenshot.jpg" height="648" width="324"></center>
+Therefore, you have to work towards your goals every single day. This book won’t teach you anything new or give you a magic pill. This book will re-visit the basic ideas which you are already aware of.
 
-<h2>So Let's Get Started</h2>
-<h3>From Within Your Phone Settings:</h3>
+Let us dive into the summary of this book.
+
+# Chapter 1: The Compound Effect In Action
+
+> You know that expression, “Slow and steady wins the race”? Ever heard the story of the tortoise and the hare? Ladies and gentlemen, I’m the tortoise. Give me enough time, and I will beat virtually anybody, anytime, in any competition. Why? Not because I’m the best or the smartest or the fastest.
+
+> I’ll win because of the positive habits I’ve developed, and because of the consistency I use in applying those habits.
+
+## Definition:
+
+1.1 - “The Compound Effect is the principle of reaping huge rewards from a series of small, smart choices.”
+
+1.2 - Even though results are massive, the steps, in the moment, don’t feel significant. Use these small subtle changes to improve your health, relationships, finances, goals or anything else that matters.
+
+1.3 - Realize that small seemingly insignificant steps completed consistently over time will create a radical difference. Remember this formula:
+
+## Small, Smart Choices + Consistency + Time = Radical Difference
+
+## Example:
+
+
 
 __Step 1__: Go to Settings.<br>
 __Step 2__: Tap on Mobile networks.<br>
@@ -29,7 +48,7 @@ __NOTE:__ Also make sure that your device's firmware is up to date (including th
 <h3>Hard Reset & Wipe:</h3>
 Make sure your device is charged more than 60%.<br>
 
-__IMPORTANT NOTE:__  This step would erase the data present on your phone, I would strongly recommend to make a backup of your personal data before proceeding. 
+__IMPORTANT NOTE:__  This step would erase the data present on your phone, I would strongly recommend to make a backup of your personal data before proceeding.
 
 
 __Step 1__: Turn off your device.<br>
