@@ -2,8 +2,8 @@
 layout: post
 title: The Compound Effect Summary
 tags: [book summary, book notes]
-image: https://www.anudit.in/img/vodafone_volte/vodafone_lte.jpg
-share-img: https://www.anudit.in/img/vodafone_volte/vodafone_lte.jpg
+image: himanshugoel.in/img/vodafone_volte/vodafone_lte.jpg
+share-img: himanshugoel.in/img/vodafone_volte/vodafone_lte.jpg
 ---
 # The Compound Effect Summary
 
