@@ -1,14 +1,14 @@
 ---
 title: The Compound Effect Summary
-date: 2020-05-04T00:00:00.000+05:30
+date: 2020-05-04 00:00:00 +05:30
 tags:
 - book summary
 - book notes
 layout: post
 image: img/vodafone_volte/vodafone_lte.jpg
 share-img: img/vodafone_volte/vodafone_lte.jpg
-
 ---
+
 # The Compound Effect Summary :)
 
 _Darren Hardy’s compound effect_ is one of the most important book that I read again and again to remind myself of the tools and techniques Darren teaches. The techniques are so simple yet so effective.<br>
