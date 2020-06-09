@@ -25,7 +25,7 @@ I am an Information Security enthusiast and my work involves working with the en
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-I enjoy reading <a href="https://www.himanshugoel.in/books/" a target="_blank" class="link link-blue">books</a>. I love my Kindle and just cannot live without it. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user/show/66769839-himanshu-goel">here</a>. Make sure to add some of them in your future reading list.
+I enjoy reading <a target="_blank" href="https://www.himanshugoel.in/books/">books</a>. I love my Kindle and just cannot live without it. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user/show/66769839-himanshu-goel">here</a>. Make sure to add some of them in your future reading list.
 </p>
 
 <p class="about-text">
