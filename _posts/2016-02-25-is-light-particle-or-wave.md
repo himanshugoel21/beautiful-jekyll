@@ -1,7 +1,9 @@
 ---
+title: 'Light: Particle or Wave?'
+date: 2016-02-25 00:00:00 +05:30
+tags:
+- science
 layout: post
-title: "Light: Particle or Wave?"
-tags: [science]
 ---
 
 <center><h2>Does light behave like particles or waves?</h2></center>

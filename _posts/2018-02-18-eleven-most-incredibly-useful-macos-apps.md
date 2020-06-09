@@ -1,7 +1,10 @@
 ---
-layout: post
 title: 11 Most Incredibly Useful (& Essential) MacOS Apps!
-tags: [macOS, productivity]
+date: 2018-02-18 00:00:00 +05:30
+tags:
+- macOS
+- productivity
+layout: post
 image: https://www.anudit.in/img/macos_apps/mac-os-apps.jpg
 share-img: https://www.anudit.in/img/macos_apps/mac-os-apps.jpg
 ---

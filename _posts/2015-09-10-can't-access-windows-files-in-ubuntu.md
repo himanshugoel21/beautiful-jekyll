@@ -1,7 +1,12 @@
 ---
+title: Why I'm unable to access my Windows' drives in Ubuntu?
+date: 2015-09-10 00:00:00 +05:30
+tags:
+- linux
+- windows
+- dual boot
+- hack
 layout: post
-title: "Why I'm unable to access my Windows' drives in Ubuntu?"
-tags: [linux, windows, dual boot, hack]
 image: https://www.anudit.in/img/WinVsUb.jpg
 share-img: https://www.anudit.in/img/io-error.jpg
 ---

@@ -1,7 +1,11 @@
 ---
+title: How is iOS different from Android, requires only a needful RAM in iPhones compared
+  to Android phones?
+date: 2018-01-13 00:00:00 +05:30
+tags:
+- Android
+- iOS
 layout: post
-title: "How is iOS different from Android, requires only a needful RAM in iPhones compared to Android phones?"
-tags: [Android, iOS]
 image: https://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
 share-img: https://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
 ---

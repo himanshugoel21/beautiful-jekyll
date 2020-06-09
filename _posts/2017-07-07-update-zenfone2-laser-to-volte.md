@@ -1,7 +1,12 @@
 ---
+title: Update your ZenFone 2 Laser (ZE550KL) to VoLTE (Version WW-21.40.1220.2196)
+  & Fix /asdf /recovery Errors without ROOT
+date: 2017-07-07 00:00:00 +05:30
+tags:
+- zenfone
+- VoLTE
+- Android
 layout: post
-title: Update your ZenFone 2 Laser (ZE550KL) to VoLTE (Version WW-21.40.1220.2196) & Fix /asdf /recovery Errors without ROOT
-tags: [zenfone, VoLTE, Android]
 image: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
 share-img: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
 ---

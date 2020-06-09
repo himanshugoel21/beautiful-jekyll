@@ -1,7 +1,10 @@
 ---
-layout: post
 title: Here Is The World's First Webpage!
-tags: [www, Internet]
+date: 2015-11-14 00:00:00 +05:30
+tags:
+- www
+- Internet
+layout: post
 ---
 
 We have come a long way in terms of technology, our lives have never been so connected to the Internet, everything we do or visit leaves a digital footprint in some way or the other. In this post, I am going to take you on the journey into a different Universe, a whole new virtual world created by us and how we reached this great mark. If we want to quantify the size of the Internet in another fundamental physical quantity then consider this,

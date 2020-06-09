@@ -1,7 +1,12 @@
 ---
+title: 'Fix: This location could not be displayed Input/Output error in Ubuntu'
+date: 2017-07-14 00:00:00 +05:30
+tags:
+- Ubuntu
+- Linux
+- Windows
+- hack
 layout: post
-title: "Fix: This location could not be displayed Input/Output error in Ubuntu"
-tags: [Ubuntu, Linux, Windows, hack]
 share-img: https://www.anudit.in/img/io-error.jpg
 ---
 

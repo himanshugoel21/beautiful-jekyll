@@ -1,8 +1,12 @@
 ---
-layout: post
 title: This Is For Your Incredible Quest of Space Exploration And Beyond
-tags: [space, universe]
+date: 2015-09-06 00:00:00 +05:30
+tags:
+- space
+- universe
+layout: post
 ---
+
 __"The important thing is to not stop questioning. Curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvellous structure of reality. It is enough if one tries merely to comprehend a little of this mystery each day."__ - Albert Einstein
 
 We all have at a point of life might have thought of a potential life exists in outer space, beyond far away stars, galaxies and in the known universe, there might be a chance that you have pondered and imagined all the possibilities to explore, you might have thought what exactly is out there millions of light years away, far enough that even our imagination would sometimes feel incapacitated, despite having limitless strength of our powerful cognitive ability.

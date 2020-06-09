@@ -1,7 +1,11 @@
 ---
-layout: post
 title: Are The Random Numbers Really Random?
-tags: [probability, mathematics, science]
+date: 2015-12-22 00:00:00 +05:30
+tags:
+- probability
+- mathematics
+- science
+layout: post
 show-avatar: false
 image: https://www.anudit.in/img/math-universe.jpg
 share-img: https://www.anudit.in/img/math-universe.jpg
